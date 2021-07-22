@@ -1,0 +1,4 @@
+set pastetoggle=<F2>
+set hlsearch
+set number
+colorscheme desert
